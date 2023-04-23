@@ -1,0 +1,16 @@
+{
+  "name": "Star Wars to Inferior Star Trek",
+  "version": "1.0",
+  "description": "A Chrome extension that replaces all instances of 'Star Wars' (and its variants) with 'Inferior Star Trek' in the body, title, and h tags of a web page.",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
