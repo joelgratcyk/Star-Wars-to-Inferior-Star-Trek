@@ -19,6 +19,10 @@ Once installed, the extension will automatically replace all instances of "Star 
 
 If you find any issues or have any suggestions for improving the extension, please feel free to open an issue or submit a pull request on the GitHub repository.
 
+## Disclaimer
+
+This extension was created for fun and educational purposes only. It is not intended to be used to deceive or mislead others, and the author of this extension is not responsible for any consequences of its use.
+
 ## Credits
 
 This extension was created by Joel Gratcyk with the help of the ChatGPT language model trained by OpenAI.
